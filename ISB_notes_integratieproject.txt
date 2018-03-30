@@ -1,0 +1,13 @@
+alles gebruiken maar refereren 
+basis windows server al draaien
+
+veiligheid
+-ftp
+
+github doorsturen met toevoegen celis 
+
+windows server met iis, site deploy waar je naar kan surven.
+met sql server enzo 
+
+
+
